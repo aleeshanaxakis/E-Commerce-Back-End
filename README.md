@@ -3,7 +3,7 @@
 ## Description
 Here I developed the back end for an e-commerce site with Express.js API to use Sequelize to interact with a MySQL database.
 
-A link to the walkthrough video is available here:
+A link to the walkthrough video is available here: https://drive.google.com/file/d/1Yh00NEACXgaJ3dLp0bbS2cBXuTf-lxu6/view
 
 ## User Story
 AS A manager at an internet retail company
